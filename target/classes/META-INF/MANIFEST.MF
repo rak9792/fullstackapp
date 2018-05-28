@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: fullstackapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakshit
+Implementation-Vendor-Id: com.fullstackapp
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/fullstackapp
+Created-By: Maven Integration for Eclipse
+
